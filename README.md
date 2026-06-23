@@ -23,7 +23,8 @@ Backend and cloud engineer with 4 years of production experience — now deep in
 - 🧠 Designed the **LLM routing layer** that decides when to trust the model vs. call live search — in real-time, inside a car
 - ☁️ Migrated a full AWS account to **Terraform** — environment setup from days to under an hour
 - ⚡ Led **Kubernetes → Lambda migration** cutting infra costs by **60–70%**
-- 📍 Memphis, TN (Open to Relocate for better opportunities) 
+- 📍 Memphis, TN (Open to Relocate for better opportunities)
+
 ---
 
 ## 🧠 What I'm Focused On
@@ -65,6 +66,9 @@ AI Agent Pipelines     ██████████████░░░░░
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00B4D8?style=for-the-badge&logoColor=white)
 ![Query Classification](https://img.shields.io/badge/Query_Classification-06D6A0?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 
 **Databases & Messaging**
 
@@ -86,6 +90,7 @@ This is where I'm heading — and I'm already shipping here.
 | **RAG Pipeline** | Retrieval-Augmented Generation with Azure OpenAI + Bing Search API | Production OTA |
 | **Query Classifier** | Hallucination prevention system — caught and fixed classification gaps before launch | In-car, real-time |
 | **LLM Response Formatter** | Natural speech formatting layer for in-car voice responses | 3M+ vehicles |
+| **VitalAI** | AI health analysis agent — RAG-powered Q&A, multi-model LLM cascade, health score dashboard | Personal Project |
 
 ---
 
@@ -103,6 +108,9 @@ This is where I'm heading — and I'm already shipping here.
 ---
 
 ## 📌 Featured Projects
+
+### 🩺 [VitalAI](https://github.com/Haneesh-Nellore/VitalAI)
+> AI-powered health analysis agent — upload blood reports and get instant insights via multi-model LLM cascade (Llama 4 → Llama 3.3 → fallback). Features RAG-powered follow-up Q&A with FAISS + HuggingFace embeddings, a visual health score dashboard, and PDF export. Built with LangChain, Groq, Supabase, and Streamlit.
 
 ### 🔧 [aws-serverless-patterns](https://github.com/Haneesh-Nellore/aws-serverless-patterns)
 > Production-tested AWS serverless patterns — Lambda cold start tuning, SQS async jobs, reusable Terraform modules, and RDS Proxy concurrency control. Based on real enterprise infrastructure work at scale.
@@ -137,4 +145,3 @@ I'm currently open to **Senior Backend**, **Cloud/Platform**, and **AI/LLM Engin
 *"The best backend is the one nobody thinks about — because it just works."*
 
 </div>
-
