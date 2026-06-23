@@ -2,7 +2,7 @@
 
 # Haneesh Nellore
 
-### Backend Engineer → Cloud Architect → AI/LLM Engineer
+### Backend Engineer + Cloud Engineer → Transforming into AI-Native Engineer
 #### Building the infrastructure that makes intelligent systems scale.
 
 <img src="use_thsi_picture_insted_for_th-ezgif.com-optimize.gif" width="400" alt="Haneesh Nellore"/>
@@ -23,8 +23,7 @@ Backend and cloud engineer with 4 years of production experience — now deep in
 - 🧠 Designed the **LLM routing layer** that decides when to trust the model vs. call live search — in real-time, inside a car
 - ☁️ Migrated a full AWS account to **Terraform** — environment setup from days to under an hour
 - ⚡ Led **Kubernetes → Lambda migration** cutting infra costs by **60–70%**
-- 📍 San Jose, CA · Open to Relocate
-
+- 📍 Memphis, TN (Open to Relocate for better opportunities) 
 ---
 
 ## 🧠 What I'm Focused On
